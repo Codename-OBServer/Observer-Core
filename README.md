@@ -1,5 +1,9 @@
 # Observer Core
 
-Last ned siste versjon under **Releases** (filen `Observer-Core-Setup-x.y.z.exe`).
+Tournament broadcast control for Magic: The Gathering events - match control, OBS overlays, Melee sync and remote control from phones.
 
-Appen oppdaterer seg selv fra denne siden.
+## Download
+
+Get the latest version under **Releases** (file `Observer-Core-Setup-x.y.z.exe`) and run it.
+
+Installed copies update themselves from this page (System Status -> Update).
